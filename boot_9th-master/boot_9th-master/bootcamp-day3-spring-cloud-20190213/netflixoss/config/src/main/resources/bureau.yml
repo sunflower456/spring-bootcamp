@@ -1,0 +1,15 @@
+# server port
+server:
+  port: 8761
+
+spring:
+  security:
+    user:
+      name: user
+      password: password
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: auditevents,beans,conditions,configprops,env,flyway,health,heapdump,info,liquibase,logfile,loggers,metrics,prometheus,scheduletasks,sessions,shutdown,threaddump

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/../bank-pd299746" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../bank-pd299746/bank-boot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../bank-pd299746/bank-domain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../bank-pd299746/bank-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../bank-pd299746/bank-store-jpa" charset="UTF-8" />
+  </component>
+</project>

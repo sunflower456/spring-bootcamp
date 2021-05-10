@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/ms/echo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms/echo-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms/hello" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netflixoss" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netflixoss/bureau" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netflixoss/callgate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netflixoss/config" charset="UTF-8" />
+  </component>
+</project>

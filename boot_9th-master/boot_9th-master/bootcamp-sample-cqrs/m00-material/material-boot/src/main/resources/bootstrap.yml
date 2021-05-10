@@ -1,0 +1,11 @@
+# application name(identity)
+spring:
+  application:
+    name: m00-material
+# config server location
+  cloud:
+    config:
+      uri: http://localhost:8888/
+      #      username: admin
+      #      password: admin1234
+      failFast: true

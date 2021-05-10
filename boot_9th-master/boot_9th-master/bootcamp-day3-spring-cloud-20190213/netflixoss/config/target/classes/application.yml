@@ -1,0 +1,28 @@
+# service endpoint
+server:
+  port: 8888
+
+spring:
+  profiles:
+    active: native
+
+#
+#spring:
+#  # service name
+#  application:
+#    name: config
+#  # profile
+#  profiles:
+#    active: native
+#  # config uri
+#  cloud:
+#    config:
+#      server:
+#        prefix: /
+#        git:
+#          uri: file:///${user.home}/config
+#
+## using encryption
+#management:
+#  security:
+#    enabled: false

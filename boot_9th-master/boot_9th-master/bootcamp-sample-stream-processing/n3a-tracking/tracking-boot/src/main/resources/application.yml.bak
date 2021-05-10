@@ -1,0 +1,16 @@
+# listen port
+# "0" is random
+server:
+  port: 0
+
+# registry location(eureka)
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: ${EUREKA_URI:http://localhost:8761/eureka}
+    enabled: true
+
+# sleuth/zipkin
+spring:
+  zipkin:
+    baseUrl: http://localhost:9999/
